@@ -109,7 +109,6 @@ class _EditProfile extends State<EditProfile> {
             
             ),
         ),
-
         // body 
         body: Container(
             width: double.infinity,
